@@ -1,18 +1,43 @@
-<h1 align="center">Hi there, I'm Mahan 👋</h1>
+# Hi, I'm Mahan 👋
 
-<p align="center">
- <a href="https://linkedin.com/in/mahanvarghai" target="_blank">
-  <img src="https://img.icons8.com/fluent/60/000000/linkedin.png" />
- </a>
+🎮 **Game Developer**  
+Creating interactive worlds and immersive experiences through code, design, and creativity.  
+Driven to master every aspect of game development and become a versatile creator.
 
-<p align="center"> 
- <strong>
-  My skills
-  </strong>
-</p>
+---
 
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="60" height="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="60" height="60" />
-</p>
+## 🚀 Current Focus
+- Developing a game demo as a portfolio piece.
+- Strengthening skills in Unity, .NET MAUI, and ARM programming.
+- Exploring AI, graphics programming, and modern game pipelines.
+
+---
+
+## 🛠️ Skills
+
+**Programming Languages:** C, C#, Python, C++ (basic)  
+**Engines & Frameworks:** Unity, .NET MAUI, OpenCV  
+**Tools:** Git / GitHub, Blender (basic), Adobe Illustrator (basic)  
+**Embedded:** ARM programming, AVR (basic)
+
+---
+
+## 📚 Learning Roadmap
+Planning to learn and experiment with: Rust, TypeScript, TensorFlow & ML, Unreal Engine, ASP.NET Core, VFX pipelines, OpenGL & Vulkan, Photon Networking.
+
+---
+
+## 🌱 Vision
+I aim to master proven and future-oriented technologies to build games that combine technical excellence with creative storytelling.  
+With an industrial background in mechatronics, I also intend to explore industrial applications within the gaming domain.
+
+---
+
+## 📫 Connect
+- GitHub: [your-github-link]  
+- LinkedIn: [your-linkedin-link]  
+- Email: [your-email]
+
+---
+
+⭐ Always learning and creating — striving to become a well-rounded and innovative game developer.
