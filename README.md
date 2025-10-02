@@ -34,9 +34,8 @@ With an industrial background in mechatronics, I also intend to explore industri
 ---
 
 ## 📫 Connect
-- GitHub: [your-github-link]  
-- LinkedIn: [your-linkedin-link]  
-- Email: [your-email]
+- LinkedIn: [https://linkedin.com/in/mahanvarghai]  
+- Email: [mahanvarghai@gmail.com]
 
 ---
 
